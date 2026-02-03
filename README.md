@@ -56,6 +56,7 @@
 
 ![Godwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=addetsi&show_icons=true&theme=default)
 
+
 ---
 
 💡 **Open to opportunities** in Data Science, ML Engineering, and Analytics roles in the Netherlands
