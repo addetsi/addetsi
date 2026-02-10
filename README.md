@@ -1,7 +1,7 @@
 # Hi 👋, I'm Godwin Addetsi
 ## MSc Data Science Student | Machine Learning & Data Engineering
 
-🎓 Pursuing MSc in Computer Science (Data Science) at **Leiden University**, Leiden 
+🎓 Pursuing MSc in Computer Science (Data Science) at **Leiden University**, Leiden.  
 🔬 Specializing in predictive modeling, feature engineering, and real-time data pipelines  
 🏦 Background in financial risk analytics and HR predictive systems  
 🌍 Based in The Hague, Netherlands | Open to opportunities in NL  
