@@ -1,7 +1,7 @@
 # Hi 👋, I'm Godwin Addetsi
 ## MSc Data Science Student | Machine Learning & Data Engineering
 
-🎓 Pursuing MSc in Computer Science (Data Science) at **Leiden University**, The Hague  
+🎓 Pursuing MSc in Computer Science (Data Science) at **Leiden University**, Leiden 
 🔬 Specializing in predictive modeling, feature engineering, and real-time data pipelines  
 🏦 Background in financial risk analytics and HR predictive systems  
 🌍 Based in The Hague, Netherlands | Open to opportunities in NL  
@@ -46,19 +46,19 @@
 
 #### 🎖️ [Military HR Analytics & Deployment Optimization](https://github.com/addetsi/military-hr-analytics)
 > Predictive system for personnel attrition risk and operational readiness forecasting. Built a dual-model pipeline combining classification and regression, Monte Carlo deployment simulator, and an interactive multi-page Plotly Dash dashboard for workforce planning.  
-`Python` `XGBoost` `Scikit-learn` `Plotly Dash` `PySpark` `Feature Engineering` ✅ **Complete**
+`Python` `XGBoost` `Scikit-learn` `Plotly Dash` `PySpark` `Feature Engineering` 
 
 ---
 
 #### 🏦 [Banking Financial Health Classification](https://github.com/addetsi/bank-financial-health-classification)
 > Supervised ML system identifying rural banks at risk of liquidity failure and capital inadequacy. Engineered financial features, benchmarked multiple classification models, and deployed an interactive risk assessment dashboard with SHAP-based model interpretability.  
-`Python` `XGBoost` `Scikit-learn` `SMOTE` `SHAP` `Pandas` ✅ **Complete**
+`Python` `XGBoost` `Scikit-learn` `SMOTE` `SHAP` `Pandas` 
 
 ---
 
 #### 🏦 [Bank Customer Churn Prediction](https://github.com/addetsi/bank-customer-churn-analysis)
 > End-to-end ML pipeline predicting customer churn from banking behavioral data. Benchmarked seven classification algorithms, handled class imbalance with SMOTE, performed hyperparameter tuning, and generated comprehensive model evaluation visualizations.  
-`Python` `Random Forest` `XGBoost` `Scikit-learn` `Seaborn` `Matplotlib` ✅ **Complete**
+`Python` `Random Forest` `XGBoost` `Scikit-learn` `Seaborn` `Matplotlib` 
 
 ---
 
@@ -82,10 +82,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Profile At a Glance
 
-![Godwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=addetsi&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addetsi&layout=compact&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=addetsi&color=blue&style=flat&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/addetsi?style=flat&logo=github&label=Followers&color=blue)](https://github.com/addetsi?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/addetsi?style=flat&logo=github&label=Total+Stars&color=yellow)](https://github.com/addetsi)
 
 ---
 
