@@ -44,12 +44,27 @@
 
 ### 📂 Featured Projects
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| [🏦 Bank Customer Churn Prediction](https://github.com/addetsi/bank-customer-churn-analysis) | ML pipeline predicting customer churn on 10,000 records. Benchmarked 7 algorithms, achieved 86% CV accuracy with Random Forest + SMOTE | Python, XGBoost, Scikit-learn, Seaborn | ✅ Complete |
-| [🏦 Banking Financial Health Classification](https://github.com/addetsi/bank-financial-health-classification) | Supervised ML system classifying 224+ rural banks by financial risk. 82% recall, 74% precision using XGBoost with SHAP interpretability | Python, XGBoost, SMOTE, SHAP | ✅ Complete |
-| [🎖️ Military HR Analytics & Deployment Optimization](https://github.com/addetsi/military-hr-analytics) | Dual-model system: attrition risk classifier (75% recall) + readiness score regressor (RMSE 7.8). Monte Carlo simulator + Plotly Dash dashboard | Python, XGBoost, Plotly Dash, PySpark | ✅ Complete |
-| [🛒 ShopStream: Real-Time E-Commerce Pipeline](https://github.com/addetsi/shopstream-pipeline) | Production data engineering pipeline streaming e-commerce events through Kafka, processing with PySpark, storing in PostgreSQL, deployed on Azure | Kafka, PySpark, PostgreSQL, Docker, Azure | 🔄 In Progress |
+#### 🎖️ [Military HR Analytics & Deployment Optimization](https://github.com/addetsi/military-hr-analytics)
+> Predictive system for personnel attrition risk and operational readiness forecasting. Built a dual-model pipeline combining classification and regression, Monte Carlo deployment simulator, and an interactive multi-page Plotly Dash dashboard for workforce planning.  
+`Python` `XGBoost` `Scikit-learn` `Plotly Dash` `PySpark` `Feature Engineering` ✅ **Complete**
+
+---
+
+#### 🏦 [Banking Financial Health Classification](https://github.com/addetsi/bank-financial-health-classification)
+> Supervised ML system identifying rural banks at risk of liquidity failure and capital inadequacy. Engineered financial features, benchmarked multiple classification models, and deployed an interactive risk assessment dashboard with SHAP-based model interpretability.  
+`Python` `XGBoost` `Scikit-learn` `SMOTE` `SHAP` `Pandas` ✅ **Complete**
+
+---
+
+#### 🏦 [Bank Customer Churn Prediction](https://github.com/addetsi/bank-customer-churn-analysis)
+> End-to-end ML pipeline predicting customer churn from banking behavioral data. Benchmarked seven classification algorithms, handled class imbalance with SMOTE, performed hyperparameter tuning, and generated comprehensive model evaluation visualizations.  
+`Python` `Random Forest` `XGBoost` `Scikit-learn` `Seaborn` `Matplotlib` ✅ **Complete**
+
+---
+
+#### 🛒 [ShopStream: Real-Time E-Commerce Pipeline](https://github.com/addetsi/shopstream-pipeline)
+> Production-grade data engineering pipeline streaming e-commerce events in real time. Ingests customer transactions via Kafka, processes and aggregates with PySpark Structured Streaming, stores in PostgreSQL, and deployed to Azure using Docker.  
+`Apache Kafka` `PySpark` `PostgreSQL` `Docker` `Azure` `Docker Compose` 🔄 **In Progress**
 
 ---
 
