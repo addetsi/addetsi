@@ -1,10 +1,10 @@
 # Hi 👋, I'm Godwin Addetsi
 ## MSc Data Science Student | Machine Learning & Data Engineering
 
-🎓 Pursuing MSc in Computer Science (Data Science) at **Leiden University**, Leiden.  
-🔬 Specializing in predictive modeling, feature engineering, and real-time data pipelines  
-🏦 Background in financial risk analytics and HR predictive systems  
-🌍 Based in The Hague, Netherlands | Open to opportunities in NL  
+Pursuing MSc in Computer Science (Data Science) at **Leiden University**, Leiden.
+Specializing in predictive modeling, feature engineering, and real-time data pipelines  
+Background in financial risk analytics and HR predictive systems  
+Based in The Hague, Netherlands | Open to opportunities in NL  
 
 ---
 
@@ -42,55 +42,59 @@
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
-#### 🎖️ [Military HR Analytics & Deployment Optimization](https://github.com/addetsi/military-hr-analytics)
-> Predictive system for personnel attrition risk and operational readiness forecasting. Built a dual-model pipeline combining classification and regression, Monte Carlo deployment simulator, and an interactive multi-page Plotly Dash dashboard for workforce planning.  
-`Python` `XGBoost` `Scikit-learn` `Plotly Dash` `PySpark` `Feature Engineering` 
+####  [Military HR Analytics & Deployment Optimization](https://github.com/addetsi/military-hr-analytics)
+> Dual-model predictive system for military HR management. Built an XGBoost classifier for attrition risk (HIGH/MEDIUM/LOW) and a Linear Regression model for readiness score forecasting across 1,000 personnel records with 100 engineered features. Includes a strategy-based deployment simulator and an interactive Streamlit dashboard.  
+`Python` `XGBoost` `Scikit-learn` `Streamlit` `SMOTE` `Feature Engineering`
 
 ---
 
 #### 🏦 [Banking Financial Health Classification](https://github.com/addetsi/bank-financial-health-classification)
-> Supervised ML system identifying rural banks at risk of liquidity failure and capital inadequacy. Engineered financial features, benchmarked multiple classification models, and deployed an interactive risk assessment dashboard with SHAP-based model interpretability.  
+> ML classification system identifying rural banks at risk of liquidity failure and capital inadequacy. Analyzed 224 banks across 12 quarters using 25+ financial indicators. Benchmarked 5 models with XGBoost achieving the best performance. Includes SMOTE for class imbalance and SHAP-based model interpretability.  
 `Python` `XGBoost` `Scikit-learn` `SMOTE` `SHAP` `Pandas` 
 
 ---
 
 #### 🏦 [Bank Customer Churn Prediction](https://github.com/addetsi/bank-customer-churn-analysis)
-> End-to-end ML pipeline predicting customer churn from banking behavioral data. Benchmarked seven classification algorithms, handled class imbalance with SMOTE, performed hyperparameter tuning, and generated comprehensive model evaluation visualizations.  
-`Python` `Random Forest` `XGBoost` `Scikit-learn` `Seaborn` `Matplotlib` 
+> End-to-end ML pipeline predicting customer churn from banking behavioral data. Benchmarked seven classification algorithms including Decision Tree, Logistic Regression, KNN, SVM, Random Forest, XGBoost, and Gradient Boosting. Handled class imbalance with SMOTE and performed GridSearchCV hyperparameter tuning on the best model.  
+`Python` `Random Forest` `XGBoost` `Scikit-learn` `Seaborn` `Matplotlib`
 
 ---
 
 #### 🛒 [ShopStream: Real-Time E-Commerce Pipeline](https://github.com/addetsi/shopstream-pipeline)
-> Production-grade data engineering pipeline streaming e-commerce events in real time. Ingests customer transactions via Kafka, processes and aggregates with PySpark Structured Streaming, stores in PostgreSQL, and deployed to Azure using Docker.  
-`Apache Kafka` `PySpark` `PostgreSQL` `Docker` `Azure` `Docker Compose` 🔄 **In Progress**
+> Production-grade data engineering pipeline using the UCI Online Retail II dataset. Replays real retail transactions through Kafka, processes and aggregates with PySpark Structured Streaming, stores results in PostgreSQL, and deployed to Azure using Docker.  
+`Apache Kafka` `PySpark` `PostgreSQL` `Docker` `Azure` `Docker Compose` **In Progress**
 
 ---
 
-### 🌱 Currently Building
+###  Currently Learning
 
-- ⚙️ **ShopStream Pipeline** — Real-time streaming pipeline (Kafka + PySpark + PostgreSQL + Docker + Azure)
 - ☁️ **Azure Data Engineering** — Azure Databricks, Delta Lake, Data Factory (working toward DP-203)
 - 🚀 **MLOps on Azure** — CI/CD for ML models, Azure ML, model deployment and monitoring
 
 ---
 
-### 🏅 Certifications
+### Certifications
 
-- 🎓 **IBM Data Science Professional Certificate** — IBM / Coursera
+-  **IBM Data Science Professional Certificate** — IBM / Coursera
 
 ---
 
-### 📊 Profile At a Glance
+##  Profile At a Glance
 
 ![Profile Views](https://komarev.com/ghpvc/?username=addetsi&color=blue&style=flat&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/addetsi?style=flat&logo=github&label=Followers&color=blue)](https://github.com/addetsi?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/addetsi?style=flat&logo=github&label=Total+Stars&color=yellow)](https://github.com/addetsi)
 
+|  Education |  Experience |  Availability |
+|---|---|---|
+| MSc Data Science — Leiden University | 2x Data Science Internships | The Hague, Netherlands |
+| BSc Computer Science - Ghana | 1x Software Development Role | Open from June 2026 |
+
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-godwinaddetsi12@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:godwinaddetsi12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Godwin_Addetsi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwin-addetsi-24094a28b)
