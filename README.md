@@ -8,7 +8,7 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 **Machine Learning & Data Science:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -50,19 +50,19 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 
 ---
 
-#### 🏦 [Banking Financial Health Classification](https://github.com/addetsi/bank-financial-health-classification)
+####  [Banking Financial Health Classification](https://github.com/addetsi/bank-financial-health-classification)
 > ML classification system identifying rural banks at risk of liquidity failure and capital inadequacy. Analyzed 224 banks across 12 quarters using 25+ financial indicators. Benchmarked 5 models with XGBoost achieving the best performance. Includes SMOTE for class imbalance and SHAP-based model interpretability.  
 `Python` `XGBoost` `Scikit-learn` `SMOTE` `SHAP` `Pandas` 
 
 ---
 
-#### 🏦 [Bank Customer Churn Prediction](https://github.com/addetsi/bank-customer-churn-analysis)
+####  [Bank Customer Churn Prediction](https://github.com/addetsi/bank-customer-churn-analysis)
 > End-to-end ML pipeline predicting customer churn from banking behavioral data. Benchmarked seven classification algorithms including Decision Tree, Logistic Regression, KNN, SVM, Random Forest, XGBoost, and Gradient Boosting. Handled class imbalance with SMOTE and performed GridSearchCV hyperparameter tuning on the best model.  
 `Python` `Random Forest` `XGBoost` `Scikit-learn` `Seaborn` `Matplotlib`
 
 ---
 
-#### 🛒 [ShopStream: Real-Time E-Commerce Pipeline](https://github.com/addetsi/shopstream-pipeline)
+####  [ShopStream: Real-Time E-Commerce Pipeline](https://github.com/addetsi/shopstream-pipeline)
 > Production-grade data engineering pipeline using the UCI Online Retail II dataset. Replays real retail transactions through Kafka, processes and aggregates with PySpark Structured Streaming, stores results in PostgreSQL, and deployed to Azure using Docker.  
 `Apache Kafka` `PySpark` `PostgreSQL` `Docker` `Azure` `Docker Compose` **In Progress**
 
@@ -70,8 +70,8 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 
 ###  Currently Learning
 
-- ☁️ **Azure Data Engineering** — Azure Databricks, Delta Lake, Data Factory (working toward DP-203)
-- 🚀 **MLOps on Azure** — CI/CD for ML models, Azure ML, model deployment and monitoring
+-  **Azure Data Engineering** — Azure Databricks, Delta Lake, Data Factory (working toward DP-203)
+-  **MLOps on Azure** — CI/CD for ML models, Azure ML, model deployment and monitoring
 
 ---
 
@@ -90,7 +90,7 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 |  Education |  Experience |  Availability |
 |---|---|---|
 | MSc Data Science — Leiden University | 2x Data Science Internships | The Hague, Netherlands |
-| BSc Computer Science - Ghana | 1x Software Development Role | Open from June 2026 |
+| BSc Computer Science - Ghana | 1x Software Development Role | Open for DS internships |
 
 ---
 
