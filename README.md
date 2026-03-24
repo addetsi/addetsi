@@ -1,9 +1,9 @@
 # Hi 👋, I'm Godwin Addetsi
-## MSc Data Science Student | Machine Learning & Data Engineering
+## MSc Data Science Student | Machine Learning & Cloud Analytics
 
 Pursuing MSc in Computer Science (Data Science) at **Leiden University**, Leiden.
-Specializing in predictive modeling, feature engineering, and real-time data pipelines  
-Background in financial risk analytics and HR predictive systems  
+Specializing in predictive modeling, cloud data platforms, and production ML systems  
+Background in financial analytics, HR systems, and end-to-end ML pipelines  
 Based in The Hague, Netherlands | Open to opportunities in NL  
 
 ---
@@ -18,9 +18,10 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Deep Learning:**  
+**Deep Learning & NLP:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logoColor=white)
 
 **Data Engineering & Streaming:**  
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
@@ -32,52 +33,60 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 **Cloud & MLOps:**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Visualization:**  
+**Visualization & BI:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat)
 
 ---
 
 ###  Featured Projects
 
+####  [RetailPulse: Azure E-Commerce BI Platform](https://github.com/addetsi/retailpulse-azure-bi)
+> End-to-end cloud analytics platform on Azure processing 1M+ e-commerce transactions. Built ETL pipelines with Azure Databricks and Data Factory, transformed data into star schema in Azure SQL Database, and created 5 interactive Power BI dashboards answering key business questions (revenue trends, customer analytics, product performance). Demonstrates production-grade cloud data engineering and business intelligence.  
+`Azure Databricks` `Azure Data Factory` `Azure SQL` `PySpark` `Power BI` `Python`
+
+---
+
+####  [FinanceGPT: AI-Powered SEC Filings Analyzer](https://github.com/addetsi/financegpt-rag)
+> RAG-based financial intelligence system analyzing SEC 10-K filings from 50+ companies using local Llama 3.2 8B. Combined vector search (ChromaDB) with knowledge graphs (Neo4j) for hybrid retrieval. Extracts entities with spaCy, answers complex financial queries, and visualizes company relationships. Includes Streamlit interface with graph visualization and citation tracking.  
+`RAG` `LangChain` `ChromaDB` `Neo4j` `Llama 3.2` `spaCy` `Streamlit` `Python`
+
+---
+
 ####  [Military HR Analytics & Deployment Optimization](https://github.com/addetsi/military-hr-analytics)
-> Dual-model predictive system for military HR management. Built an XGBoost classifier for attrition risk (HIGH/MEDIUM/LOW) and a Linear Regression model for readiness score forecasting across 1,000 personnel records with 100 engineered features. Includes a strategy-based deployment simulator and an interactive Streamlit dashboard.  
+> Dual-model predictive system for workforce planning. XGBoost classifier predicts attrition risk (HIGH/MEDIUM/LOW) and Linear Regression forecasts readiness scores across 1,000 personnel. Engineered 100+ features from training records, health metrics, and deployment history. Interactive Streamlit dashboard with real-time filtering, KPI tracking, and deployment scenario simulation.  
 `Python` `XGBoost` `Scikit-learn` `Streamlit` `SMOTE` `Feature Engineering`
 
 ---
 
 ####  [Banking Financial Health Classification](https://github.com/addetsi/bank-financial-health-classification)
-> ML classification system identifying rural banks at risk of liquidity failure and capital inadequacy. Analyzed 224 banks across 12 quarters using 25+ financial indicators. Benchmarked 5 models with XGBoost achieving the best performance. Includes SMOTE for class imbalance and SHAP-based model interpretability.  
+> ML system identifying rural banks at risk of liquidity failure and capital inadequacy. Analyzed 224 banks across 12 quarters using 25+ financial indicators (liquidity ratios, capital adequacy, asset quality). Benchmarked 5 algorithms with XGBoost achieving best performance. Includes SMOTE for class imbalance and SHAP-based model interpretability for stakeholder insights.  
 `Python` `XGBoost` `Scikit-learn` `SMOTE` `SHAP` `Pandas` 
 
 ---
 
 ####  [Bank Customer Churn Prediction](https://github.com/addetsi/bank-customer-churn-analysis)
-> End-to-end ML pipeline predicting customer churn from banking behavioral data. Benchmarked seven classification algorithms including Decision Tree, Logistic Regression, KNN, SVM, Random Forest, XGBoost, and Gradient Boosting. Handled class imbalance with SMOTE and performed GridSearchCV hyperparameter tuning on the best model.  
+> End-to-end ML pipeline predicting customer churn from behavioral and demographic data. Benchmarked 7 classification algorithms (Decision Tree, Logistic Regression, KNN, SVM, Random Forest, XGBoost, Gradient Boosting). Applied SMOTE for class imbalance, GridSearchCV hyperparameter tuning, and comprehensive evaluation metrics (ROC-AUC, precision, recall, F1).  
 `Python` `Random Forest` `XGBoost` `Scikit-learn` `Seaborn` `Matplotlib`
 
 ---
 
-####  [ShopStream: Real-Time E-Commerce Pipeline](https://github.com/addetsi/shopstream-pipeline)
-> Production-grade data engineering pipeline using the UCI Online Retail II dataset. Replays real retail transactions through Kafka, processes and aggregates with PySpark Structured Streaming, stores results in PostgreSQL, and deployed to Azure using Docker.  
-`Apache Kafka` `PySpark` `PostgreSQL` `Docker` `Azure` `Docker Compose` **In Progress**
+###  Currently Working On
 
----
-
-###  Currently Learning
-
--  **Azure Data Engineering** — Azure Databricks, Delta Lake, Data Factory (working toward DP-203)
--  **MLOps on Azure** — CI/CD for ML models, Azure ML, model deployment and monitoring
+-  **Production ML Deployment** — Building end-to-end ML system with API serving, monitoring, and business impact measurement
+-  **Statistics Deep Dive** — Mastering hypothesis testing, regression diagnostics, and A/B testing with Python
 
 ---
 
 ### Certifications
 
--  **IBM Data Science Professional Certificate** — IBM / Coursera
+-  **IBM Data Science Professional Certificate** — IBM / Coursera (2025)
+-  **Data Engineering Certificate** — Udemy (2026)
 
 ---
 
@@ -87,10 +96,10 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 [![GitHub followers](https://img.shields.io/github/followers/addetsi?style=flat&logo=github&label=Followers&color=blue)](https://github.com/addetsi?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/addetsi?style=flat&logo=github&label=Total+Stars&color=yellow)](https://github.com/addetsi)
 
-|  Education |  Experience |  Availability |
+|  Education |  Experience |  Portfolio |
 |---|---|---|
-| MSc Data Science — Leiden University | 2x Data Science Internships | The Hague, Netherlands |
-| BSc Computer Science - Ghana | 1x Software Development Role | Open for DS internships |
+| MSc Data Science — Leiden University | 2x Data Science Internships | 6 Production Projects |
+| BSc Computer Science (3.6 GPA) | Financial Analytics & HR Systems | Cloud, ML, Data Engineering |
 
 ---
 
@@ -102,4 +111,18 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 
 ---
 
-💡 **Open to internship and junior opportunities** in Data Science, ML Engineering, Data Engineering, and Analytics roles in the Netherlands
+💡 **Open to Data Science, ML Engineer, Analytics Engineer, and BI Developer opportunities** in the Netherlands
+
+---
+
+### 📊 GitHub Stats
+
+![Godwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=addetsi&show_icons=true&theme=default&hide=contribs)
+
+### 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addetsi&layout=compact&theme=default)
+
+---
+
+**✨ Building production-quality data science solutions | Cloud-native analytics | ML engineering**
