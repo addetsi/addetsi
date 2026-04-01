@@ -30,7 +30,7 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Cloud & MLOps:**  
+**Cloud:**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -39,8 +39,6 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 **Visualization & BI:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 
 ---
 
@@ -85,8 +83,8 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 
 ### Certifications
 
--  **IBM Data Science Professional Certificate** — IBM / Coursera (2025)
--  **Data Engineering Certificate** — Udemy (2026)
+-  **IBM Data Science Professional Certificate** - IBM / Coursera (2025)
+-  **Data Engineering Certificate** - Udemy (2026)
 
 ---
 
