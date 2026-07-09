@@ -1,7 +1,7 @@
 # Hi 👋, I'm Godwin Addetsi
 ## Data & AI Engineer | MSc Data Science Student | Analytics Engineering & Cloud Platforms
 
-Currently interning at **Albert Heijn (Ahold Delhaize)** as part of the **Shadowcat team** — building automated compliance data pipelines on a production-grade DevSecOps platform using Kafka, Databricks, DBT, and Azure.
+Currently interning at **Albert Heijn (Ahold Delhaize)** as part of the **Shadowcat team - EEP ** - building automated compliance data pipelines on a production-grade DevSecOps platform using Kafka, Databricks, DBT, and Azure.
 
 Pursuing MSc in Computer Science (Data Science) at **Leiden University**, Leiden.  
 Specializing in data engineering, analytics engineering, cloud platforms, and applied AI/LLM systems.  
@@ -84,8 +84,8 @@ Based in The Hague, Netherlands | Open to opportunities in NL
 
 ### 🔨 Currently Working On
 
-- 🏗 **Shadowcat @ Albert Heijn** — Automating SMCF-OPS compliance evidence collection using Azure Resource Graph API, DBT transformation models, and Power BI dashboards. Replacing manual Excel-based compliance workflows with a fully automated pipeline integrated into Shadowcat's production Kafka → Databricks → Power BI stack.
-- 🤖 **LLM Evidence Generation** — Exploring use of enterprise Claude API (Ahold Delhaize) for automated compliance document generation from structured pipeline data.
+- 🏗 **DevSecOps Insights Platform @ Albert Heijn** — Building automated compliance data pipelines on a production-grade platform using Azure Resource Graph API, DBT transformation models, and Power BI dashboards. Replacing manual compliance workflows with scalable, fully automated solutions integrated into a production Kafka → Databricks → Power BI stack.
+- 🤖 **AI-Powered Compliance Automation** — Applying AI engineering techniques to automate evidence collection and compliance document generation from structured pipeline data at enterprise scale.
 - 📚 **MSc Coursework** — Statistical Learning, Information Retrieval, Data Mining at Leiden University.
 
 ---
